@@ -114,7 +114,7 @@ Raw Patient Data (55,500+ records)
 > *"What is the overall performance of our hospital network?"*
 <div align="center">
 
-![Executive Healthcare Overview](Dashboard_Screenshots/Executive.png)
+![Executive Healthcare Overview](Executive.png)
 
 </div>
 The top-level command center for leadership — designed to be read and acted upon in under 30 seconds.
