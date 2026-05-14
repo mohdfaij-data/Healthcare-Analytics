@@ -140,7 +140,11 @@ The top-level command center for leadership — designed to be read and acted up
 ### Module 2 — Hospital Operations & Patient Flow
 
 > *"Where are the bottlenecks, and how is patient flow moving through the system?"*
+<div align="center">
 
+![Executive Healthcare Overview](Flow_analysis.png)
+
+</div>
 The operational engine room — built for hospital operations managers and clinical directors.
 
 **KPIs Tracked:**
@@ -162,7 +166,11 @@ The operational engine room — built for hospital operations managers and clini
 ### Module 3 — Healthcare Intelligence & Strategic Insights
 
 > *"What are the real revenue drivers, and what strategic decisions should we make?"*
+<div align="center">
 
+![Executive Healthcare Overview](Insights_Strategies.png)
+
+</div>
 The intelligence layer — built for C-suite strategic planning and performance reviews.
 
 **KPIs Tracked:**
